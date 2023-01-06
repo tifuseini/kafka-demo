@@ -11,8 +11,8 @@ com:
   kafka:
     kafkaInfo:
       bootstrapServer: "localhost:9092"
-      topicName: "fcm-field-event"
-      stringTopicName: "fcm-field-event-string"
-      groupName: "field"
+      topicName: "test-event"
+      stringTopicName: "test-event-string"
+      groupName: "test"
       kafkaListenerContainerFactory: "kafkaListenerContainerFactory"
       groupId: "group-id-1"
