@@ -1,2 +1,4 @@
-package com.doneugene.kafkademoapp.config;public class SourceConfig {
+package com.doneugene.kafkademoapp.config;
+
+public class SourceConfig {
 }
